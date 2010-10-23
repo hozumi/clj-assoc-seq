@@ -1,6 +1,6 @@
 # clj-assoc-line
 
-assoc-seq is taking key-seq and value-seq.
+assoc-seq is similar to assoc except taking key-seq and value-seq.
 
 ## Usage
 
