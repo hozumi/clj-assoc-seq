@@ -1,4 +1,4 @@
-# clj-assoc-line
+# clj-assoc-seq
 
 assoc-seq is similar to assoc except taking key-seq and value-seq.
 
